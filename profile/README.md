@@ -19,7 +19,9 @@ NanamYuk is an gardening management and plant recommendation Android Application
 |Ahmad Solahudin Rifandi    | C2224W2082 |   Cloud Computing  |             
 | Refin Refiansyah Maldini | C7237F2141 |   Cloud Computing  |
 
-
+# Try NanamYuk!
+### [NanamYuk! APK](https://storage.googleapis.com/nanamyuk-bucket/NanamYuk.apk)
+> Please enable "[Install from Unknown Source](https://www.maketecheasier.com/install-apps-from-unknown-sources-android/)" on your Android Phone
 
 # Project Architecture
 
