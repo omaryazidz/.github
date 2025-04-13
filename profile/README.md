@@ -9,7 +9,7 @@ You can use the website to generate badges: https://shields.io/
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/omaryzdz/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/omaryazidz/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:omaryazidz48@gmail.com)
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4539689" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/h1gan.png" alt="Your Image Badge" />
 
 &nbsp;
 
