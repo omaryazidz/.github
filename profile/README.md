@@ -20,8 +20,8 @@ You can use the website to generate badges: https://shields.io/
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 👨🏽‍💻 I’m Fresh Graduate from Universitas Islam Negeri Syarif Hidayatullah Jakarta Majoring Informatics Engineering.
-- 🌱 I’m currently learning DevOps.
-- 🖥️ I’m looking for help with IT Infrastructure & DevOps.
+- 🌱 I’m currently learning Cyber Security.
+- 🖥️ I’m looking for help with IT Infrastructure & Security.
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Fun-Fact: I love cats.
 - 📫 How to reach me: omaryazidz48@gmail.com
